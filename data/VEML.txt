@@ -1,0 +1,210 @@
+ 
+ 
+ 
+The pdf995 suite of products - Pdf995, PdfEdit995, and Signature995 - is a complete solution for your document publishing needs. It 
+provides ease of use, flexibility in format, and industry-standard security- and all at no cost to you. 
+Pdf995 makes it easy and affordable to create professional-quality documents in the popular PDF file format. Its easy-to-use interface 
+helps you to create PDF files by simply selecting the "print" command from any application, creating documents which can be viewed 
+on any computer with a PDF viewer. Pdf995 supports network file saving, fast user switching on XP, Citrix/Terminal Server, custom 
+page sizes and large format printing. Pdf995 is a printer driver that works with any Postscript to PDF converter. The pdf995 printer 
+driver and a free Converter are available for easy download. 
+PdfEdit995 offers a wealth of additional functionality, such as: combining documents into a single PDF; automatic link insertion; 
+hierarchical bookmark insertion; PDF conversion to HTML or DOC (text only); integration with Word toolbar with automatic table of 
+contents and link generation; autoattach to email; stationery and stamping.  
+Signature995 offers state-of-the-art security and encryption to protect your documents and add digital signatures. 
+ 
+ 
+ 
+The Pdf995 Suite offers the following features, all at no cost: 
+Automatic insertion of embedded links 
+Hierarchical Bookmarks 
+Support for Digital Signatures 
+Support for Triple DES encryption 
+Append and Delete PDF Pages 
+Batch Print from Microsoft Office 
+Asian and Cyrillic fonts 
+Integration with Microsoft Word toolbar 
+PDF Stationery 
+Combining multiple PDF's into a single PDF 
+Three auto-name options to bypass Save As dialog 
+Imposition of Draft/Confidential stamps 
+Support for large format architectural printing 
+Convert PDF to JPEG, TIFF, BMP, PCX formats 
+Convert PDF to HTML and Word DOC conversion 
+Convert PDF to text 
+Automatic Table of Contents generation 
+Support for XP Fast User Switching and multiple user 
+sessions 
+Standard PDF Encryption (restricted printing, modifying, 
+copying text and images) 
+Support for Optimized PDF 
+Support for custom page sizes Option to attach PDFs to email after creation  
+Automatic text summarization of PDF 
+documents 
+Easy integration with document management 
+and Workflow systems 
+n-Up printing 
+Automatic page numbering 
+Simple Programmers Interface 
+Option to automatically display PDFs after 
+creation 
+Custom resizing of PDF output 
+Configurable Font embedding 
+Support for Citrix/Terminal Server 
+Support for Windows 2003 Server 
+Easy PS to PDF processing 
+Specify PDF document properties 
+Control PDF opening mode 
+Can be configured to add functionality to 
+Acrobat Distiller 
+Free: Creates PDFs without annoying 
+watermarks 
+Free: Fully functional, not a trial and does not 
+expire 
+Over 5 million satisfied customers 
+Over 1000 Enterprise Customers worldwide 
+ 
+Please visit us at www.pdf995.com to learn more. 
+ 
+This document illustrates several features of the Pdf995 Suite of Products. 
+APPROVEDIntroduction
+TheVirtualRealityModelingLanguage(VRML)isalanguagefordescribingmulti-
+participantinteractivesimulations--virtualworldsnetworkedviatheglobalInternetand
+hyperlinkedwiththeWorldWideWeb.Allaspectsofvirtualworlddisplay,interaction
+andinternetworkingcanbespecifiedusingVRML.Itistheintentionofitsdesignersthat
+VRMLbecomethestandardlanguageforinteractivesimulationwithintheWorldWide
+Web.
+ThefirstversionofVRMLallowsforthecreationofvirtualworldswithlimited
+interactivebehavior.Theseworldscancontainobjectswhichhavehyperlinkstoother
+worlds,HTMLdocumentsorothervalidMIMEtypes.Whentheuserselectsanobject
+withahyperlink,theappropriateMIMEviewerislaunched.Whentheuserselectsalink
+toaVRMLdocumentfromwithinacorrectlyconfiguredWWWbrowser,aVRML
+viewerislaunched.ThusVRMLviewersaretheperfectcompanionapplicationsto
+standardWWWbrowsersfornavigatingandvisualizingtheWeb.Futureversionsof
+VRMLwillallowforricherbehaviors,includinganimations,motionphysicsandreal-
+timemulti-userinteraction.
+ThisdocumentspecifiesthefeaturesandsyntaxofVersion1.0ofVRML.
+VRMLMissionStatement
+ThehistoryofthedevelopmentoftheInternethashadthreedistinctphases;first,the
+developmentoftheTCP/IPinfrastructurewhichalloweddocumentsanddatatobestored
+inaproximallyindependentway;thatis,Internetprovidedalayerofabstractionbetween
+datasetsandthehostswhichmanipulatedthem.Whilethisabstractionwasuseful,itwas
+alsoconfusing;withoutanyclearsenseof"whatwentwhere",accesstoInternetwas
+restrictedtotheclassofsysops/netsurferswhocouldmaintaininternalcognitivemapsof
+thedataspace.
+Next,TimBerners-Lee'sworkatCERN,wherehedevelopedthehypermediasystem
+knownasWorldWideWeb,addedanotherlayerofabstractiontotheexistingstructure.
+Thisabstractionprovidedan"addressing"scheme,auniqueidentifier(theUniversal
+ResourceLocator),whichcouldtellanyone"wheretogoandhowtogetthere"forany
+pieceofdatawithintheWeb.Whileuseful,itlackeddimensionality;there'snothere
+therewithintheweb,andtheonlytypeofnavigationpermissible(otherthansurfing)is
+bydirectreference.Inotherwords,IcanonlytellyouhowtogettotheVRMLForum
+homepagebysaying,"http://www.wired.com/",whichisnothuman-centereddata.In
+APPROVEDfact,Ineedtomakeanefforttorememberitatall.So,whiletheWorldWideWeb
+providesaretrievalmechanismtocomplementtheexistingstoragemechanism,itleaves
+alottobedesired,particularlyforhumanbeings.
+Finally,wemoveto"perceptualized"Internetworks,wherethedatahasbeensensualized,
+thatis,renderedsensually.Ifsomethingisrepresentedsensually,itispossibletomake
+senseofit.VRMLisanattempt(howsuccessful,onlytimeandeffortwilltell)toplace
+humansatthecenteroftheInternet,orderingitsuniversetoourwhims.Inordertodo
+that,themostimportantsingleelementisastandardthatdefinestheparticularitiesof
+perception.VirtualRealityModelingLanguageisthatstandard,designedtobea
+universaldescriptionlanguageformulti-participantsimulations.
+Thesethreephases,storage,retrieval,andperceptualizationareanalogoustothehuman
+processofconsciousness,asexpressedintermsofsemanticsandcognitivescience.
+Eventsoccurandarerecorded(memory);inferencesaredrawnfrommemory
+(associations),andfromsetsofrelatedevents,mapsoftheuniversearecreated(cognitive
+perception).Whatisimportanttorememberisthatthemapisnottheterritory,andwe
+shouldavoidbecomingtrappedinanysinglerepresentationorworld-view.Althoughwe
+needtodesigntoavoiddisorientation,weshouldalwayspushtheenvelopeinthekinds
+ofexperiencewecanbringintomanifestation!
+Thisdocumentisthelivingproofofthesuccessofaprocessthatwascommittedtobeing
+openandflexible,responsivetotheneedsofagrowingWebcommunity.Ratherthanre-
+inventthewheel,wehaveadaptedanexistingspecification(OpenInventor)asthebasis
+fromwhichourownworkcangrow,savingyearsofdesignworkandperhapsmany
+mistakes.Nowourrealworkcanbegin;thatofrenderingournoosphericspace.
+History
+VRMLwasconceivedinthespringof1994atthefirstannualWorldWideWeb
+ConferenceinGeneva,Switzerland.TimBerners-LeeandDaveRaggettorganizeda
+Birds-of-a-Feather(BOF)sessiontodiscussVirtualRealityinterfacestotheWorldWide
+Web.SeveralBOFattendeesdescribedprojectsalreadyunderwaytobuildthree
+dimensionalgraphicalvisualizationtoolswhichinteroperatewiththeWeb.Attendees
+agreedontheneedforthesetoolstohaveacommonlanguageforspecifying3Dscene
+descriptionandWWWhyperlinks--ananalogofHTMLforvirtualreality.Theterm
+VirtualRealityMarkupLanguage(VRML)wascoined,andthegroupresolvedtobegin
+specificationworkaftertheconference.Theword'Markup'waslaterchangedto
+'Modeling'toreflectthegraphicalnatureofVRML.
+APPROVEDShortlyaftertheGenevaBOFsession,thewww-vrmlmailinglistwascreatedtodiscuss
+thedevelopmentofaspecificationforthefirstversionofVRML.Theresponsetothelist
+invitationwasoverwhelming:withinaweek,therewereoverathousandmembers.After
+aninitialsettling-inperiod,listmoderatorMarkPesceofLabyrinthGroupannouncedhis
+intentiontohaveadraftversionofthespecificationreadybytheWWWFall1994
+conference,amerefivemonthsaway.Therewasgeneralagreementonthelistthat,while
+thisschedulewasaggressive,itwasachievableprovidedthattherequirementsforthe
+firstversionwerenottooambitiousandthatVRMLcouldbeadaptedfromanexisting
+solution.Thelistquicklyagreeduponasetofrequirementsforthefirstversion,and
+beganasearchfortechnologieswhichcouldbeadaptedtofittheneedsofVRML.
+Thesearchforexistingtechnologiesturnedupaseveralworthwhilecandidates.After
+muchdeliberationthelistcametoaconsensus:theOpenInventorASCIIFileFormat
+fromSiliconGraphics,Inc.TheInventorFileFormatsupportscompletedescriptionsof
+3Dsceneswithpolygonallyrenderedobjects,lighting,materials,ambientpropertiesand
+realismeffects.AsubsetoftheInventorFileFormat,withextensionstosupport
+networking,formsthebasisofVRML.GavinBellofSiliconGraphicshasadaptedthe
+InventorFileFormatforVRML,withdesigninputfromthemailinglist.SGIhaspublicly
+statedthatthefileformatisavailableforuseintheopenmarket,andhavecontributeda
+fileformatparserintothepublicdomaintobootstrapVRMLviewerdevelopment.
+APPROVEDAGraphicalRepresentationofInverseVRMLUptake
+Changethenumberinredbelowtoadjustfordownloadrateand/orbandwidth.
+1Thenumber1representsanengineerwithan"average"cube*
+CF Minfsw AirEANx
+32%EANx
+36%
+80.0149.12 0
+61.4114.43 10
+49.892.846 20
+41.978.102 30 180
+36.267.402 40 120
+31.859.275 50 80.0 147.0 192.0
+28.4 52.9 60 57.0 92.0 123.0
+25.647.774 70 40.0 65.0 79.0
+23.443.543 80 30.0 49.0 59.0
+21.540.001 90 24.0 37.0 45.0
+19.9 37 100 19.0 30.0 35.0
+18.534.409 110 16.0 25.0 29.0
+17.332.154 120 13.0 20.0 n/a
+16.230.178 130 10.0 17.0 n/a
+15.128.202 140 8.0 n/a n/a020406080100120140
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+DaysafterdownloadInverseusageProgrammers
+TechnicalWriters
+QA
+Other
+0102030405060708090
+50
+60
+70
+80
+90
+100
+110
+120
+130
+140
+DaysafterdownloadInverselogusageArtists
+Musicians
+Politicians
+Dentists
